@@ -8,11 +8,11 @@ contributors:
 ---
 
 
-Red was created out of the need to get work done, and the tool the author wanted to use, the language of REBOL, had a couple of drawbacks.
+Red was created out of the need to get work done, and the tool the author wanted to use, the language of Rebol, had a couple of drawbacks.
 It was not Open Sourced at that time and it is an interpreted language, what means that it is on average slow compared to a compiled language.
 
 Red, together with its C-level dialect Red/System, provides a language that covers the entire programming space you ever need to program something in.
-Red is a language heavily based on the language of REBOL. Where Red itself reproduces the flexibility of the REBOL language, the underlying language Red will be built upon,
+Red is a language heavily based on the language of Rebol. Where Red itself reproduces the flexibility of the Rebol language, the underlying language Red will be built upon,
 Red/System, covers the more basic needs of programming like C can, being closer to the metal.
 
 Red will be the world's first Full Stack Programming Language. This means that it will be an effective tool to do (almost) any programming task on every level
